@@ -109,7 +109,7 @@ export function Footer() {
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} HelpConnect. All rights reserved.
           </p>
-          <p className="text-sm text-muted-foreground mt-4 md:mt-0">Made with ❤️ at BITS Pilani</p>
+          <p className="text-sm text-muted-foreground mt-4 md:mt-0">Made with ❤️ for communities worldwide!</p>
         </div>
       </div>
     </footer>
